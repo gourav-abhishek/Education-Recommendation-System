@@ -1,4 +1,3 @@
-# Education-Recommendation-System
 
 
 # Educational Recommender System 🎓
